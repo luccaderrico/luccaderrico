@@ -1,12 +1,9 @@
 # Lucca D'Errico
-
-Olá, meu nome é Lucca D'Errico, sou um aluno de programação e começei minha jornada recentemente
-através do curso do NEXT do Cesar School.
-Sou formado em direito, mas encontro-me em processo de migração de carreira e já estou apaixonada pela
-área de programação.
+Meu nome é Lucca D'Errico. Sou um estudante de programação e começei minha jornada nessa área recentemente
+através do curso NEXT do Cesar School.
+Sou formado em direito, mas estou em processo de migração de área e já estou apaixonado pela área de programação.
 
 ## Curiosidades
-
-* Curto RPG, principalmente sobre o desevolvimento da habilidade de **Storytelling**.
-* Acredito muito na resulução de conflito através da **Mediação**.
-* Curto blues e música clássica.
+* Curto RPG e principalmente o desenvolvimente da habilidade de **Storytelling**
+* Acredito na resolução pacífica de conflitos através da **Mediação**
+* Curto blues e música clássica
