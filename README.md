@@ -8,4 +8,3 @@ Sou formado em direito, mas estou em processo de migração de área e já estou
 * Curto RPG e principalmente o desenvolvimente da habilidade de **Storytelling**
 * Acredito na resolução pacífica de conflitos através da **Mediação**
 * Curto tocar violão. Gosto de MPB, blues e música clássica
-
