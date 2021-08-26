@@ -9,4 +9,4 @@ Sou formado em direito, mas encontro-me em processo de migração de carreira e 
 
 * Curto RPG, principalmente sobre o desevolvimento da habilidade de **Storytelling**.
 * Acredito muito na resulução de conflito através da **Mediação**.
-* Curto blues e musica clássica.
+* Curto blues e música clássica.
