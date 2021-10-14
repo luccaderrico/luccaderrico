@@ -10,5 +10,7 @@ Sou formado em direito, mas estou em processo de migração de área e já estou
 * Fintechs
 
 ## Skils
-![image](https://user-images.githubusercontent.com/86860708/137405697-277fee5d-b71a-4618-ad8d-d0ae6e946d1d.png)  ![image](https://user-images.githubusercontent.com/86860708/137404590-8166d0df-52a9-4bab-a773-21769c18d076.png)  ![image](https://user-images.githubusercontent.com/86860708/137404737-89e2094e-497d-4f60-b750-e12df10802a6.png)
+![image](https://user-images.githubusercontent.com/86860708/137406021-94a77d2f-fda2-4384-be64-d6c5eefeaffa.png) ![image](https://user-images.githubusercontent.com/86860708/137406062-5914d41f-b8c4-4387-a2d7-fe7f3d8808a0.png) ![image](https://user-images.githubusercontent.com/86860708/137406078-d011c195-5682-4e65-afc9-ad3376fb4365.png)
+
+
 
