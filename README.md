@@ -3,8 +3,12 @@ Meu nome é Lucca D'Errico. Sou um estudante de programação e começei minha j
 através do curso NEXT do Cesar School.
 Sou formado em direito, mas estou em processo de migração de área e já estou apaixonado pela área de programação.
 
-## Curiosidades
-* Aprendendo python e java
-* Curto RPG e principalmente o desenvolvimente da habilidade de **Storytelling**
-* Acredito na resolução pacífica de conflitos através da **Mediação**
-* Curto tocar violão. Gosto de MPB, blues e música clássica
+## Interesses
+AI
+Machine Learning
+Blockchain
+Fintechs
+
+## Skils
+Python
+Java
